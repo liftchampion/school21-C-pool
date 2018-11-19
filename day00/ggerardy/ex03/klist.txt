@@ -1,0 +1,5 @@
+Credentials cache: API:8072
+        Principal: ggerardy@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Oct 15 16:07:51 2018  Oct 16 16:07:51 2018  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
